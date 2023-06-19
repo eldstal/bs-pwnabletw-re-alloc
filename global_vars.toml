@@ -12,9 +12,9 @@ name = "data_40054f"
 type = "char[0x12]"
 size = 0x12
 
-[0x40056b]
-last_change = 2023-06-19T19:06:36.530111Z
-addr = 0x40056b
-name = "data_40056b"
-type = "char[0xa]"
-size = 0xa
+[0x400575]
+last_change = 2023-06-19T19:06:39.769026Z
+addr = 0x400575
+name = "data_400575"
+type = "char[0xc]"
+size = 0xc
