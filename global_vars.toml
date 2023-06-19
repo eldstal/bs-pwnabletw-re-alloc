@@ -1,13 +1,6 @@
-[0x402105]
-last_change = 2023-06-19T19:07:07.551132Z
-addr = 0x402105
-name = "data_402105"
-type = "char const[0x1c]"
-size = 0x1c
-
-[0x4040f8]
-last_change = 2023-06-19T19:07:18.436270Z
-addr = 0x4040f8
-name = "<ExternalSymbol: "atoll" @ 0x4040f8>"
-type = "long(char const* nptr)"
+[0x404120]
+last_change = 2023-06-19T19:07:18.685094Z
+addr = 0x404120
+name = "<ExternalSymbol: "signal" @ 0x404120>"
+type = "__sighandler_t(int sig, __sighandler_t handler)"
 size = 0x0
