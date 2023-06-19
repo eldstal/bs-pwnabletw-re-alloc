@@ -1,0 +1,100 @@
+[metadata]
+name = "_IO_wide_data"
+size = 0xe8
+last_change = 2023-06-19T19:06:24.104714Z
+
+[members.0x0]
+name = "_IO_read_ptr"
+offset = 0x0
+type = "wchar_t*"
+size = 0x8
+
+[members.0x8]
+name = "_IO_read_end"
+offset = 0x8
+type = "wchar_t*"
+size = 0x8
+
+[members.0x10]
+name = "_IO_read_base"
+offset = 0x10
+type = "wchar_t*"
+size = 0x8
+
+[members.0x18]
+name = "_IO_write_base"
+offset = 0x18
+type = "wchar_t*"
+size = 0x8
+
+[members.0x20]
+name = "_IO_write_ptr"
+offset = 0x20
+type = "wchar_t*"
+size = 0x8
+
+[members.0x28]
+name = "_IO_write_end"
+offset = 0x28
+type = "wchar_t*"
+size = 0x8
+
+[members.0x30]
+name = "_IO_buf_base"
+offset = 0x30
+type = "wchar_t*"
+size = 0x8
+
+[members.0x38]
+name = "_IO_buf_end"
+offset = 0x38
+type = "wchar_t*"
+size = 0x8
+
+[members.0x40]
+name = "_IO_save_base"
+offset = 0x40
+type = "wchar_t*"
+size = 0x8
+
+[members.0x48]
+name = "_IO_backup_base"
+offset = 0x48
+type = "wchar_t*"
+size = 0x8
+
+[members.0x50]
+name = "_IO_save_end"
+offset = 0x50
+type = "wchar_t*"
+size = 0x8
+
+[members.0x58]
+name = "_IO_state"
+offset = 0x58
+type = "struct __mbstate_t"
+size = 0x8
+
+[members.0x60]
+name = "_IO_last_state"
+offset = 0x60
+type = "struct __mbstate_t"
+size = 0x8
+
+[members.0x68]
+name = "_codecvt"
+offset = 0x68
+type = "struct _IO_codecvt"
+size = 0x70
+
+[members.0xd8]
+name = "_shortbuf"
+offset = 0xd8
+type = "wchar_t[0x1]"
+size = 0x4
+
+[members.0xe0]
+name = "_wide_vtable"
+offset = 0xe0
+type = "void*"
+size = 0x8
