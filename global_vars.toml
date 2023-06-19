@@ -1,6 +1,6 @@
-[0x40149a]
-last_change = 2023-06-19T19:06:55.112739Z
-addr = 0x40149a
-name = "<FunctionSymbol: "reallocate" @ 0x40149a>"
-type = "void"
-size = 0x0
+[0x4015dd]
+last_change = 2023-06-19T19:06:55.517608Z
+addr = 0x4015dd
+name = "<FunctionSymbol: "rfree" @ 0x4015dd>"
+type = "char[0xd]"
+size = 0xd
