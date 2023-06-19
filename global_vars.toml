@@ -1,6 +1,6 @@
-[0x402045]
-last_change = 2023-06-19T19:07:05.516633Z
-addr = 0x402045
-name = "data_402045"
-type = "char const[0xa]"
-size = 0xa
+[0x40204f]
+last_change = 2023-06-19T19:07:05.824496Z
+addr = 0x40204f
+name = "data_40204f"
+type = "char const[0x1d]"
+size = 0x1d
