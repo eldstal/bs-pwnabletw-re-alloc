@@ -1,0 +1,46 @@
+[metadata]
+name = "Elf64_Ident"
+size = 0x10
+last_change = 2023-06-19T19:06:22.663105Z
+
+[members.0x0]
+name = "signature"
+offset = 0x0
+type = "char[0x4]"
+size = 0x4
+
+[members.0x4]
+name = "file_class"
+offset = 0x4
+type = "uchar"
+size = 0x1
+
+[members.0x5]
+name = "encoding"
+offset = 0x5
+type = "uchar"
+size = 0x1
+
+[members.0x6]
+name = "version"
+offset = 0x6
+type = "uchar"
+size = 0x1
+
+[members.0x7]
+name = "os"
+offset = 0x7
+type = "uchar"
+size = 0x1
+
+[members.0x8]
+name = "abi_version"
+offset = 0x8
+type = "uchar"
+size = 0x1
+
+[members.0x9]
+name = "pad"
+offset = 0x9
+type = "char[0x7]"
+size = 0x7
