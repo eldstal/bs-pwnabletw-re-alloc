@@ -1,6 +1,6 @@
-[0x404120]
-last_change = 2023-06-19T19:07:36.876255Z
-addr = 0x404120
-name = "<ExternalSymbol: "signal" @ 0x404120>"
-type = "__sighandler_t(int sig, __sighandler_t handler)"
+[0x404130]
+last_change = 2023-06-19T19:07:37.089162Z
+addr = 0x404130
+name = "<LibraryFunctionSymbol: "__builtin_memcpy" @ 0x404130>"
+type = "void*(void* dest, void* src, ulong n)"
 size = 0x0
