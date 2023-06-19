@@ -1,6 +1,6 @@
-[0x4012c0]
-last_change = 2023-06-19T19:06:54.405186Z
-addr = 0x4012c0
-name = "<FunctionSymbol: "read_input" @ 0x4012c0>"
+[0x40133c]
+last_change = 2023-06-19T19:06:54.725223Z
+addr = 0x40133c
+name = "<FunctionSymbol: "du_kan_inte_allocate" @ 0x40133c>"
 type = "void"
 size = 0x0
