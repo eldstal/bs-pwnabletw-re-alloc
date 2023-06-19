@@ -1,0 +1,16 @@
+[metadata]
+name = "Elf64_Dyn"
+size = 0x10
+last_change = 2023-06-19T19:06:22.335383Z
+
+[members.0x0]
+name = "d_tag"
+offset = 0x0
+type = "enum e_dyn_tag"
+size = 0x8
+
+[members.0x8]
+name = "d_val"
+offset = 0x8
+type = "ulong"
+size = 0x8
