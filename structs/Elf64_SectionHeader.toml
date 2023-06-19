@@ -1,0 +1,64 @@
+[metadata]
+name = "Elf64_SectionHeader"
+size = 0x40
+last_change = 2023-06-19T19:06:22.974269Z
+
+[members.0x0]
+name = "name"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "type"
+offset = 0x4
+type = "enum sh_type"
+size = 0x4
+
+[members.0x8]
+name = "flags"
+offset = 0x8
+type = "enum sh_flags"
+size = 0x8
+
+[members.0x10]
+name = "address"
+offset = 0x10
+type = "ulong"
+size = 0x8
+
+[members.0x18]
+name = "offset"
+offset = 0x18
+type = "ulong"
+size = 0x8
+
+[members.0x20]
+name = "size"
+offset = 0x20
+type = "ulong"
+size = 0x8
+
+[members.0x28]
+name = "link"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "info"
+offset = 0x2c
+type = "uint"
+size = 0x4
+
+[members.0x30]
+name = "align"
+offset = 0x30
+type = "ulong"
+size = 0x8
+
+[members.0x38]
+name = "entry_size"
+offset = 0x38
+type = "ulong"
+size = 0x8
