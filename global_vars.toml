@@ -1,6 +1,6 @@
-[0x40133c]
-last_change = 2023-06-19T19:06:54.725223Z
-addr = 0x40133c
-name = "<FunctionSymbol: "du_kan_inte_allocate" @ 0x40133c>"
+[0x40149a]
+last_change = 2023-06-19T19:06:55.112739Z
+addr = 0x40149a
+name = "<FunctionSymbol: "reallocate" @ 0x40149a>"
 type = "void"
 size = 0x0
