@@ -1,6 +1,6 @@
-[0x40125f]
-last_change = 2023-06-19T19:06:53.964717Z
-addr = 0x40125f
-name = "<FunctionSymbol: "read_long" @ 0x40125f>"
+[0x4012c0]
+last_change = 2023-06-19T19:06:54.405186Z
+addr = 0x4012c0
+name = "<FunctionSymbol: "read_input" @ 0x4012c0>"
 type = "void"
 size = 0x0
