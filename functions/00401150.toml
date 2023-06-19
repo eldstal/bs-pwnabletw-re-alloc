@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x401150
+size = 0x30
+last_change = 2023-06-19T19:07:50.156777Z
+
+[header]
+name = "register_tm_clones"
+addr = 0x401150
+type = "void"
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x401150
