@@ -1,8 +1,25 @@
-[p_flags]
-last_change = 2023-06-19T19:06:21.690952Z
-name = "p_flags"
+[p_type]
+last_change = 2023-06-19T19:06:21.881822Z
+name = "p_type"
 
-[p_flags.members]
-PF_X = 0x1
-PF_W = 0x2
-PF_R = 0x4
+[p_type.members]
+PT_NULL = 0x0
+PT_LOAD = 0x1
+PT_DYNAMIC = 0x2
+PT_INTERP = 0x3
+PT_NOTE = 0x4
+PT_SHLIB = 0x5
+PT_PHDR = 0x6
+PT_TLS = 0x7
+PT_NUM = 0x8
+PT_LOOS = 0x60000000
+PT_GNU_EH_FRAME = 0x6474e550
+PT_GNU_STACK = 0x6474e551
+PT_GNU_RELRO = 0x6474e552
+PT_LOSUNW = 0x6ffffffa
+PT_SUNWSTACK = 0x6ffffffa
+PT_SUNWBSS = 0x6ffffffb
+PT_MIPS_REGINFO = 0x70000000
+PT_MIPS_RTPROC = 0x70000001
+PT_MIPS_OPTIONS = 0x70000002
+PT_MIPS_ABIFLAGS = 0x70000003
