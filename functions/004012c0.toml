@@ -1,0 +1,63 @@
+[metadata]
+addr = 0x4012c0
+size = 0x7b
+last_change = 2023-06-19T19:07:58.156922Z
+
+[header]
+name = "read_input"
+addr = 0x4012c0
+type = "long"
+
+[stack_vars.-0x28]
+offset = -40
+name = "var_28"
+type = "void"
+size = 0x0
+addr = 0x4012c0
+
+[stack_vars.-0x24]
+offset = -36
+name = "var_24"
+type = "int"
+size = 0x0
+addr = 0x4012c0
+
+[stack_vars.-0x20]
+offset = -32
+name = "var_20"
+type = "void*"
+size = 0x0
+addr = 0x4012c0
+
+[stack_vars.-0x10]
+offset = -16
+name = "var_10"
+type = "long"
+size = 0x0
+addr = 0x4012c0
+
+[stack_vars.-0x8]
+offset = -8
+name = "__saved_rbp"
+type = "long"
+size = 0x0
+addr = 0x4012c0
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x4012c0
+
+[header.args.0]
+offset = 0x0
+name = "buf"
+type = "void*"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "size"
+type = "int"
+size = 0x4
