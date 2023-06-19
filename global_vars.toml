@@ -1,6 +1,6 @@
-[0x4040a8]
-last_change = 2023-06-19T19:07:27.160590Z
-addr = 0x4040a8
-name = "<DataSymbol: "completed.7963" @ 0x4040a8>"
-type = "uchar"
-size = 0x1
+[0x4040b0]
+last_change = 2023-06-19T19:07:27.378809Z
+addr = 0x4040b0
+name = "<DataSymbol: "heap" @ 0x4040b0>"
+type = "void*[0x2]"
+size = 0x10
