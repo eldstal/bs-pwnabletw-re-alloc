@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x4017f0
+size = 0x0
+last_change = 2023-06-19T19:08:00.276641Z
+
+[header]
+name = "__libc_csu_fini"
+addr = 0x4017f0
+type = "void"
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x4017f0
