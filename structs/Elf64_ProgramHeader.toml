@@ -1,0 +1,52 @@
+[metadata]
+name = "Elf64_ProgramHeader"
+size = 0x38
+last_change = 2023-06-19T19:06:22.820644Z
+
+[members.0x0]
+name = "type"
+offset = 0x0
+type = "enum p_type"
+size = 0x4
+
+[members.0x4]
+name = "flags"
+offset = 0x4
+type = "enum p_flags"
+size = 0x4
+
+[members.0x8]
+name = "offset"
+offset = 0x8
+type = "ulong"
+size = 0x8
+
+[members.0x10]
+name = "virtual_address"
+offset = 0x10
+type = "ulong"
+size = 0x8
+
+[members.0x18]
+name = "physical_address"
+offset = 0x18
+type = "ulong"
+size = 0x8
+
+[members.0x20]
+name = "file_size"
+offset = 0x20
+type = "ulong"
+size = 0x8
+
+[members.0x28]
+name = "memory_size"
+offset = 0x28
+type = "ulong"
+size = 0x8
+
+[members.0x30]
+name = "align"
+offset = 0x30
+type = "ulong"
+size = 0x8
