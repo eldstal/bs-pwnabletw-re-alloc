@@ -1,0 +1,94 @@
+[metadata]
+name = "__gconv_step"
+size = 0x68
+last_change = 2023-06-19T19:06:24.324217Z
+
+[members.0x0]
+name = "__shlib_handle"
+offset = 0x0
+type = "void*"
+size = 0x8
+
+[members.0x8]
+name = "__modname"
+offset = 0x8
+type = "char const*"
+size = 0x8
+
+[members.0x10]
+name = "__counter"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "__from_name"
+offset = 0x18
+type = "char*"
+size = 0x8
+
+[members.0x20]
+name = "__to_name"
+offset = 0x20
+type = "char*"
+size = 0x8
+
+[members.0x28]
+name = "__fct"
+offset = 0x28
+type = "void"
+size = 0x0
+
+[members.0x30]
+name = "__btowc_fct"
+offset = 0x30
+type = "__gconv_btowc_fct"
+size = 0x8
+
+[members.0x38]
+name = "__init_fct"
+offset = 0x38
+type = "__gconv_init_fct"
+size = 0x8
+
+[members.0x40]
+name = "__end_fct"
+offset = 0x40
+type = "__gconv_end_fct"
+size = 0x8
+
+[members.0x48]
+name = "__min_needed_from"
+offset = 0x48
+type = "int"
+size = 0x4
+
+[members.0x4c]
+name = "__max_needed_from"
+offset = 0x4c
+type = "int"
+size = 0x4
+
+[members.0x50]
+name = "__min_needed_to"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "__max_needed_to"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "__stateful"
+offset = 0x58
+type = "int"
+size = 0x4
+
+[members.0x60]
+name = "__data"
+offset = 0x60
+type = "void*"
+size = 0x8
