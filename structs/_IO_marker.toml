@@ -1,0 +1,22 @@
+[metadata]
+name = "_IO_marker"
+size = 0x18
+last_change = 2023-06-19T19:06:23.946307Z
+
+[members.0x0]
+name = "_next"
+offset = 0x0
+type = "void*"
+size = 0x8
+
+[members.0x8]
+name = "_sbuf"
+offset = 0x8
+type = "void*"
+size = 0x8
+
+[members.0x10]
+name = "_pos"
+offset = 0x10
+type = "int"
+size = 0x4
