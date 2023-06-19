@@ -1,6 +1,6 @@
-[0x4040d0]
-last_change = 2023-06-19T19:07:28.314739Z
-addr = 0x4040d0
-name = "<ExternalSymbol: "__libc_start_main" @ 0x4040d0>"
-type = "void(int (* main)(int argc, char** argv, char** envp), int argc, char** ubp_av, void (* init)(), void (* fini)(), void (* rtld_fini)(), void* stack_end) __noreturn"
+[0x4040d8]
+last_change = 2023-06-19T19:07:28.641056Z
+addr = 0x4040d8
+name = "<ExternalSymbol: "__read_chk" @ 0x4040d8>"
+type = "ssize_t(int fd, void* buf, ulong nbytes, ulong buflen)"
 size = 0x0
