@@ -12,9 +12,9 @@ name = "data_40054f"
 type = "char[0x12]"
 size = 0x12
 
-[0x4040e8]
-last_change = 2023-06-19T19:06:44.037690Z
-addr = 0x4040e8
-name = "<ExternalSymbol: "_exit" @ 0x4040e8>"
-type = "void(int status) __noreturn"
+[0x4040d8]
+last_change = 2023-06-19T19:06:44.260434Z
+addr = 0x4040d8
+name = "<ExternalSymbol: "__read_chk" @ 0x4040d8>"
+type = "ssize_t(int fd, void* buf, ulong nbytes, ulong buflen)"
 size = 0x0
