@@ -5,9 +5,9 @@ name = "data_4004db"
 type = "char[0xf]"
 size = 0xf
 
-[0x40053b]
-last_change = 2023-06-19T19:06:35.009230Z
-addr = 0x40053b
-name = "data_40053b"
-type = "char[0x6]"
-size = 0x6
+[0x400541]
+last_change = 2023-06-19T19:06:35.367743Z
+addr = 0x400541
+name = "data_400541"
+type = "char[0x8]"
+size = 0x8
