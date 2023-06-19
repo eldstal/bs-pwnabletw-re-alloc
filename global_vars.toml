@@ -1,0 +1,6 @@
+[0x400000]
+last_change = 2023-06-19T19:06:24.799505Z
+addr = 0x400000
+name = "<DataSymbol: "__elf_header" @ 0x400000>"
+type = "struct Elf64_Header"
+size = 0x40
