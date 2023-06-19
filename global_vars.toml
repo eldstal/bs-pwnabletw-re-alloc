@@ -1,6 +1,6 @@
-[0x4040f8]
-last_change = 2023-06-19T19:07:32.858044Z
-addr = 0x4040f8
-name = "<ExternalSymbol: "atoll" @ 0x4040f8>"
-type = "long(char const* nptr)"
+[0x404100]
+last_change = 2023-06-19T19:07:36.022031Z
+addr = 0x404100
+name = "<ExternalSymbol: "printf" @ 0x404100>"
+type = "int(char const* format, ...)"
 size = 0x0
