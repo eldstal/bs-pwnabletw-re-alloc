@@ -5,9 +5,9 @@ name = "data_402105"
 type = "char const[0x1c]"
 size = 0x1c
 
-[0x402132]
-last_change = 2023-06-19T19:07:11.286655Z
-addr = 0x402132
-name = "data_402132"
-type = "char const[0xf]"
-size = 0xf
+[0x402144]
+last_change = 2023-06-19T19:07:14.573348Z
+addr = 0x402144
+name = "<DataSymbol: "__GNU_EH_FRAME_HDR" @ 0x402144>"
+type = "void"
+size = 0x0
