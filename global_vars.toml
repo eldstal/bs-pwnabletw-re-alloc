@@ -1,6 +1,6 @@
-[0x400338]
-last_change = 2023-06-19T19:06:25.246262Z
-addr = 0x400338
-name = "<DataSymbol: "__elf_symbol_table" @ 0x400338>"
-type = "struct Elf64_Sym[0x11]"
-size = 0x198
+[0x4004d1]
+last_change = 2023-06-19T19:06:25.396102Z
+addr = 0x4004d1
+name = "data_4004d1"
+type = "char[0xa]"
+size = 0xa
