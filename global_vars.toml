@@ -1,6 +1,6 @@
-[0x404108]
-last_change = 2023-06-19T19:07:36.234232Z
-addr = 0x404108
-name = "<ExternalSymbol: "puts" @ 0x404108>"
-type = "int(char const* str)"
+[0x404110]
+last_change = 2023-06-19T19:07:36.452488Z
+addr = 0x404110
+name = "<ExternalSymbol: "realloc" @ 0x404110>"
+type = "void*(void* oldmem, ulong bytes)"
 size = 0x0
