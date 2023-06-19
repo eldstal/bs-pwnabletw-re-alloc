@@ -1,0 +1,178 @@
+[metadata]
+name = "_IO_FILE"
+size = 0xd8
+last_change = 2023-06-19T19:06:23.291799Z
+
+[members.0x0]
+name = "_flags"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "_IO_read_ptr"
+offset = 0x8
+type = "char*"
+size = 0x8
+
+[members.0x10]
+name = "_IO_read_end"
+offset = 0x10
+type = "char*"
+size = 0x8
+
+[members.0x18]
+name = "_IO_read_base"
+offset = 0x18
+type = "char*"
+size = 0x8
+
+[members.0x20]
+name = "_IO_write_base"
+offset = 0x20
+type = "char*"
+size = 0x8
+
+[members.0x28]
+name = "_IO_write_ptr"
+offset = 0x28
+type = "char*"
+size = 0x8
+
+[members.0x30]
+name = "_IO_write_end"
+offset = 0x30
+type = "char*"
+size = 0x8
+
+[members.0x38]
+name = "_IO_buf_base"
+offset = 0x38
+type = "char*"
+size = 0x8
+
+[members.0x40]
+name = "_IO_buf_end"
+offset = 0x40
+type = "char*"
+size = 0x8
+
+[members.0x48]
+name = "_IO_save_base"
+offset = 0x48
+type = "char*"
+size = 0x8
+
+[members.0x50]
+name = "_IO_backup_base"
+offset = 0x50
+type = "char*"
+size = 0x8
+
+[members.0x58]
+name = "_IO_save_end"
+offset = 0x58
+type = "char*"
+size = 0x8
+
+[members.0x60]
+name = "_markers"
+offset = 0x60
+type = "struct _IO_marker*"
+size = 0x8
+
+[members.0x68]
+name = "_chain"
+offset = 0x68
+type = "struct _IO_FILE*"
+size = 0x8
+
+[members.0x70]
+name = "_fileno"
+offset = 0x70
+type = "int"
+size = 0x4
+
+[members.0x74]
+name = "_flags2"
+offset = 0x74
+type = "int"
+size = 0x4
+
+[members.0x78]
+name = "_old_offset"
+offset = 0x78
+type = "__off_t"
+size = 0x8
+
+[members.0x80]
+name = "_cur_column"
+offset = 0x80
+type = "ushort"
+size = 0x2
+
+[members.0x82]
+name = "_vtable_offset"
+offset = 0x82
+type = "char"
+size = 0x1
+
+[members.0x83]
+name = "_shortbuf"
+offset = 0x83
+type = "char[0x1]"
+size = 0x1
+
+[members.0x88]
+name = "_lock"
+offset = 0x88
+type = "struct _IO_lock_t*"
+size = 0x8
+
+[members.0x90]
+name = "_offset"
+offset = 0x90
+type = "__off64_t"
+size = 0x8
+
+[members.0x98]
+name = "_codecvt"
+offset = 0x98
+type = "struct _IO_codecvt*"
+size = 0x8
+
+[members.0xa0]
+name = "_wide_data"
+offset = 0xa0
+type = "struct _IO_wide_data*"
+size = 0x8
+
+[members.0xa8]
+name = "_freeres_list"
+offset = 0xa8
+type = "struct _IO_FILE*"
+size = 0x8
+
+[members.0xb0]
+name = "_freeres_buf"
+offset = 0xb0
+type = "void*"
+size = 0x8
+
+[members.0xb8]
+name = "__pad5"
+offset = 0xb8
+type = "ulong"
+size = 0x8
+
+[members.0xc0]
+name = "_mode"
+offset = 0xc0
+type = "int"
+size = 0x4
+
+[members.0xc4]
+name = "_unused2"
+offset = 0xc4
+type = "char[0x14]"
+size = 0x14
