@@ -1,6 +1,6 @@
-[0x404118]
-last_change = 2023-06-19T19:07:36.661470Z
-addr = 0x404118
-name = "<ExternalSymbol: "setvbuf" @ 0x404118>"
-type = "int(FILE* fp, char* buf, int mode, ulong size)"
+[0x404120]
+last_change = 2023-06-19T19:07:36.876255Z
+addr = 0x404120
+name = "<ExternalSymbol: "signal" @ 0x404120>"
+type = "__sighandler_t(int sig, __sighandler_t handler)"
 size = 0x0
