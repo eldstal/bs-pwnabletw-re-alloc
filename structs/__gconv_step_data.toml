@@ -1,0 +1,46 @@
+[metadata]
+name = "__gconv_step_data"
+size = 0x30
+last_change = 2023-06-19T19:06:24.475259Z
+
+[members.0x0]
+name = "__outbuf"
+offset = 0x0
+type = "uchar*"
+size = 0x8
+
+[members.0x8]
+name = "__outbufend"
+offset = 0x8
+type = "uchar*"
+size = 0x8
+
+[members.0x10]
+name = "__flags"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "__invocation_counter"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "__internal_use"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "__statep"
+offset = 0x20
+type = "struct __mbstate_t*"
+size = 0x8
+
+[members.0x28]
+name = "__state"
+offset = 0x28
+type = "struct __mbstate_t"
+size = 0x8
