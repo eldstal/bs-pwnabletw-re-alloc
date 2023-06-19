@@ -1,6 +1,6 @@
-[0x404140]
-last_change = 2023-06-19T19:07:37.522661Z
-addr = 0x404140
-name = "<LibraryFunctionSymbol: "__builtin_strcpy" @ 0x404140>"
-type = "char*(char* dest, char const* src)"
+[0x404148]
+last_change = 2023-06-19T19:07:37.752666Z
+addr = 0x404148
+name = "<LibraryFunctionSymbol: "__builtin_strncpy" @ 0x404148>"
+type = "char*(char* dest, char const* src, ulong n)"
 size = 0x0
