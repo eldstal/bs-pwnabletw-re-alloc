@@ -12,9 +12,9 @@ name = "data_40054f"
 type = "char[0x12]"
 size = 0x12
 
-[0x404110]
-last_change = 2023-06-19T19:06:45.889193Z
-addr = 0x404110
-name = "<ExternalSymbol: "realloc" @ 0x404110>"
-type = "void*(void* oldmem, ulong bytes)"
+[0x404118]
+last_change = 2023-06-19T19:06:46.116256Z
+addr = 0x404118
+name = "<ExternalSymbol: "setvbuf" @ 0x404118>"
+type = "int(FILE* fp, char* buf, int mode, ulong size)"
 size = 0x0
