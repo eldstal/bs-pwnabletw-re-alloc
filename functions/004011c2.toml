@@ -1,0 +1,37 @@
+[metadata]
+addr = 0x4011c2
+size = 0x20
+last_change = 2023-06-19T19:07:57.253969Z
+
+[header]
+name = "handler"
+addr = 0x4011c2
+type = "long"
+
+[stack_vars.-0x18]
+offset = -24
+name = "var_18"
+type = "void"
+size = 0x0
+addr = 0x4011c2
+
+[stack_vars.-0xc]
+offset = -12
+name = "var_c"
+type = "int"
+size = 0x0
+addr = 0x4011c2
+
+[stack_vars.-0x8]
+offset = -8
+name = "var_8"
+type = "long"
+size = 0x0
+addr = 0x4011c2
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x4011c2
