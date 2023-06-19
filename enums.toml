@@ -1,11 +1,8 @@
-[e_type]
-last_change = 2023-06-19T19:06:21.542317Z
-name = "e_type"
+[p_flags]
+last_change = 2023-06-19T19:06:21.690952Z
+name = "p_flags"
 
-[e_type.members]
-ET_NONE = 0x0
-ET_REL = 0x1
-ET_EXEC = 0x2
-ET_DYN = 0x3
-ET_CORE = 0x4
-ET_NUM = 0x5
+[p_flags.members]
+PF_X = 0x1
+PF_W = 0x2
+PF_R = 0x4
