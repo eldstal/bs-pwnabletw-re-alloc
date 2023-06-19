@@ -1,0 +1,88 @@
+[metadata]
+name = "Elf64_Header"
+size = 0x40
+last_change = 2023-06-19T19:06:22.492190Z
+
+[members.0x0]
+name = "ident"
+offset = 0x0
+type = "struct Elf64_Ident"
+size = 0x10
+
+[members.0x10]
+name = "type"
+offset = 0x10
+type = "enum e_type"
+size = 0x2
+
+[members.0x12]
+name = "machine"
+offset = 0x12
+type = "enum e_machine"
+size = 0x2
+
+[members.0x14]
+name = "version"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "entry"
+offset = 0x18
+type = "void (*)()"
+size = 0x8
+
+[members.0x20]
+name = "program_header_offset"
+offset = 0x20
+type = "ulong"
+size = 0x8
+
+[members.0x28]
+name = "section_header_offset"
+offset = 0x28
+type = "ulong"
+size = 0x8
+
+[members.0x30]
+name = "flags"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "header_size"
+offset = 0x34
+type = "ushort"
+size = 0x2
+
+[members.0x36]
+name = "program_header_size"
+offset = 0x36
+type = "ushort"
+size = 0x2
+
+[members.0x38]
+name = "program_header_count"
+offset = 0x38
+type = "ushort"
+size = 0x2
+
+[members.0x3a]
+name = "section_header_size"
+offset = 0x3a
+type = "ushort"
+size = 0x2
+
+[members.0x3c]
+name = "section_header_count"
+offset = 0x3c
+type = "ushort"
+size = 0x2
+
+[members.0x3e]
+name = "string_table"
+offset = 0x3e
+type = "ushort"
+size = 0x2
