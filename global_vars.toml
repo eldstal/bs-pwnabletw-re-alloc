@@ -1,6 +1,6 @@
-[0x4040b0]
-last_change = 2023-06-19T19:07:27.378809Z
-addr = 0x4040b0
-name = "<DataSymbol: "heap" @ 0x4040b0>"
-type = "void*[0x2]"
-size = 0x10
+[0x4040c0]
+last_change = 2023-06-19T19:07:27.812795Z
+addr = 0x4040c0
+name = "<ExternalSymbol: "__gmon_start__" @ 0x4040c0>"
+type = "void"
+size = 0x0
