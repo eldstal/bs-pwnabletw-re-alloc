@@ -5,9 +5,9 @@ name = "data_402105"
 type = "char const[0x1c]"
 size = 0x1c
 
-[0x403e20]
-last_change = 2023-06-19T19:07:15.469589Z
-addr = 0x403e20
-name = "<DataSymbol: "__elf_dynamic_table" @ 0x403e20>"
-type = "struct Elf64_Dyn[0x18]"
-size = 0x180
+[0x4040d0]
+last_change = 2023-06-19T19:07:15.702470Z
+addr = 0x4040d0
+name = "<ExternalSymbol: "__libc_start_main" @ 0x4040d0>"
+type = "void(int (* main)(int argc, char** argv, char** envp), int argc, char** ubp_av, void (* init)(), void (* fini)(), void (* rtld_fini)(), void* stack_end) __noreturn"
+size = 0x0
