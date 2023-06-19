@@ -1,6 +1,6 @@
-[0x4015dd]
-last_change = 2023-06-19T19:06:55.517608Z
-addr = 0x4015dd
-name = "<FunctionSymbol: "rfree" @ 0x4015dd>"
-type = "char[0xd]"
-size = 0xd
+[0x401662]
+last_change = 2023-06-19T19:06:55.878165Z
+addr = 0x401662
+name = "<FunctionSymbol: "menu" @ 0x401662>"
+type = "void"
+size = 0x0
