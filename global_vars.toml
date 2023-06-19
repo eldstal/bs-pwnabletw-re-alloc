@@ -1,6 +1,6 @@
-[0x402000]
-last_change = 2023-06-19T19:06:56.958128Z
-addr = 0x402000
-name = "<DataSymbol: "_IO_stdin_used" @ 0x402000>"
-type = "uint"
-size = 0x4
+[0x402008]
+last_change = 2023-06-19T19:06:57.261157Z
+addr = 0x402008
+name = "data_402008"
+type = "char const[0x8]"
+size = 0x8
