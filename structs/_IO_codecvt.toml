@@ -1,0 +1,16 @@
+[metadata]
+name = "_IO_codecvt"
+size = 0x70
+last_change = 2023-06-19T19:06:23.443610Z
+
+[members.0x0]
+name = "__cd_in"
+offset = 0x0
+type = "struct _IO_iconv_t"
+size = 0x38
+
+[members.0x38]
+name = "__cd_out"
+offset = 0x38
+type = "struct _IO_iconv_t"
+size = 0x38
