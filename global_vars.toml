@@ -1,6 +1,13 @@
-[0x402121]
-last_change = 2023-06-19T19:07:07.770132Z
-addr = 0x402121
-name = "data_402121"
-type = "char const[0xe]"
-size = 0xe
+[0x402105]
+last_change = 2023-06-19T19:07:07.551132Z
+addr = 0x402105
+name = "data_402105"
+type = "char const[0x1c]"
+size = 0x1c
+
+[0x40212f]
+last_change = 2023-06-19T19:07:08.032978Z
+addr = 0x40212f
+name = "data_40212f"
+type = "void"
+size = 0x0
