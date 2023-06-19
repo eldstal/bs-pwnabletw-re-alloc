@@ -1,0 +1,65 @@
+[metadata]
+addr = 0x401790
+size = 0x5c
+last_change = 2023-06-19T19:07:59.977753Z
+
+[header]
+name = "__libc_csu_init"
+addr = 0x401790
+type = "void"
+
+[stack_vars.-0x38]
+offset = -56
+name = "var_38"
+type = "void"
+size = 0x0
+addr = 0x401790
+
+[stack_vars.-0x30]
+offset = -48
+name = "__saved_rbx"
+type = "long"
+size = 0x0
+addr = 0x401790
+
+[stack_vars.-0x28]
+offset = -40
+name = "__saved_rbp"
+type = "long"
+size = 0x0
+addr = 0x401790
+
+[stack_vars.-0x20]
+offset = -32
+name = "__saved_r12"
+type = "long"
+size = 0x0
+addr = 0x401790
+
+[stack_vars.-0x18]
+offset = -24
+name = "__saved_r13"
+type = "long"
+size = 0x0
+addr = 0x401790
+
+[stack_vars.-0x10]
+offset = -16
+name = "__saved_r14"
+type = "long"
+size = 0x0
+addr = 0x401790
+
+[stack_vars.-0x8]
+offset = -8
+name = "__saved_r15"
+type = "long"
+size = 0x0
+addr = 0x401790
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x401790
