@@ -5,9 +5,9 @@ name = "data_402105"
 type = "char const[0x1c]"
 size = 0x1c
 
-[0x404008]
-last_change = 2023-06-19T19:07:16.381691Z
-addr = 0x404008
-name = "data_404008"
+[0x404010]
+last_change = 2023-06-19T19:07:16.610300Z
+addr = 0x404010
+name = "data_404010"
 type = "long"
 size = 0x8
