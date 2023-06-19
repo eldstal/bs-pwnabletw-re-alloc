@@ -5,9 +5,9 @@ name = "data_402105"
 type = "char const[0x1c]"
 size = 0x1c
 
-[0x40212f]
-last_change = 2023-06-19T19:07:08.032978Z
-addr = 0x40212f
-name = "data_40212f"
-type = "void"
-size = 0x0
+[0x402132]
+last_change = 2023-06-19T19:07:11.286655Z
+addr = 0x402132
+name = "data_402132"
+type = "char const[0xf]"
+size = 0xf
