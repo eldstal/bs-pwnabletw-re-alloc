@@ -12,9 +12,9 @@ name = "data_40054f"
 type = "char[0x12]"
 size = 0x12
 
-[0x401000]
-last_change = 2023-06-19T19:06:43.561198Z
-addr = 0x401000
-name = "<FunctionSymbol: "_init" @ 0x401000>"
+[0x401020]
+last_change = 2023-06-19T19:06:43.789712Z
+addr = 0x401020
+name = "data_401020"
 type = "void"
 size = 0x0
