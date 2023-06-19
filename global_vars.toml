@@ -1,6 +1,6 @@
-[0x4040f0]
-last_change = 2023-06-19T19:07:29.448581Z
-addr = 0x4040f0
-name = "<ExternalSymbol: "alarm" @ 0x4040f0>"
-type = "void"
+[0x4040f8]
+last_change = 2023-06-19T19:07:32.858044Z
+addr = 0x4040f8
+name = "<ExternalSymbol: "atoll" @ 0x4040f8>"
+type = "long(char const* nptr)"
 size = 0x0
