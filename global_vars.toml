@@ -1,6 +1,6 @@
-[0x4017f0]
-last_change = 2023-06-19T19:06:56.733714Z
-addr = 0x4017f0
-name = "<FunctionSymbol: "__libc_csu_fini" @ 0x4017f0>"
-type = "void"
-size = 0x0
+[0x402000]
+last_change = 2023-06-19T19:06:56.958128Z
+addr = 0x402000
+name = "<DataSymbol: "_IO_stdin_used" @ 0x402000>"
+type = "uint"
+size = 0x4
