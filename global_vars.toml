@@ -5,9 +5,9 @@ name = "data_402105"
 type = "char const[0x1c]"
 size = 0x1c
 
-[0x4023b4]
-last_change = 2023-06-19T19:07:14.801103Z
-addr = 0x4023b4
-name = "<DataSymbol: "__FRAME_END__" @ 0x4023b4>"
-type = "void"
-size = 0x0
+[0x403e10]
+last_change = 2023-06-19T19:07:15.020108Z
+addr = 0x403e10
+name = "<DataSymbol: "__init_array_start" @ 0x403e10>"
+type = "void (*[0x1])()"
+size = 0x8
