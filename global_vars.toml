@@ -1,6 +1,6 @@
-[0x404078]
-last_change = 2023-06-19T19:07:25.964473Z
-addr = 0x404078
-name = "<DataSymbol: "__dso_handle" @ 0x404078>"
-type = "void"
-size = 0x0
+[0x404080]
+last_change = 2023-06-19T19:07:26.191061Z
+addr = 0x404080
+name = "<DataSymbol: "stdout" @ 0x404080>"
+type = "ulong* const"
+size = 0x8
