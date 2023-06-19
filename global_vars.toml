@@ -1,6 +1,6 @@
-[0x400040]
-last_change = 2023-06-19T19:06:24.948653Z
-addr = 0x400040
-name = "<DataSymbol: "__elf_program_headers" @ 0x400040>"
-type = "struct Elf64_ProgramHeader[0xb]"
-size = 0x268
+[0x4002a8]
+last_change = 2023-06-19T19:06:25.095311Z
+addr = 0x4002a8
+name = "<DataSymbol: "__elf_interp" @ 0x4002a8>"
+type = "char[0x1c]"
+size = 0x1c
