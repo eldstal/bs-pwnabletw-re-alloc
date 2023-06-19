@@ -1,0 +1,23 @@
+[metadata]
+addr = 0x401086
+size = 0x9
+last_change = 2023-06-19T19:07:47.522002Z
+
+[header]
+name = "sub_401086"
+addr = 0x401086
+type = "long"
+
+[stack_vars.-0x8]
+offset = -8
+name = "var_8"
+type = "long"
+size = 0x0
+addr = 0x401086
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x401086
