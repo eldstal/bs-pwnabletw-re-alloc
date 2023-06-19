@@ -1,0 +1,16 @@
+[metadata]
+name = "__mbstate_t"
+size = 0x8
+last_change = 2023-06-19T19:06:24.631260Z
+
+[members.0x0]
+name = "__count"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "__value"
+offset = 0x4
+type = "union"
+size = 0x4
