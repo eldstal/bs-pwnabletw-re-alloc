@@ -1,6 +1,6 @@
-[0x4040c0]
-last_change = 2023-06-19T19:07:27.812795Z
-addr = 0x4040c0
-name = "<ExternalSymbol: "__gmon_start__" @ 0x4040c0>"
-type = "void"
+[0x4040c8]
+last_change = 2023-06-19T19:07:28.093102Z
+addr = 0x4040c8
+name = "<ExternalSymbol: "__isoc99_scanf" @ 0x4040c8>"
+type = "int(char const* format, ...)"
 size = 0x0
