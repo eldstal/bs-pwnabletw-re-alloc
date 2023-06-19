@@ -1,0 +1,16 @@
+[metadata]
+name = "_IO_iconv_t"
+size = 0x38
+last_change = 2023-06-19T19:06:23.614262Z
+
+[members.0x0]
+name = "step"
+offset = 0x0
+type = "struct __gconv_step*"
+size = 0x8
+
+[members.0x8]
+name = "step_data"
+offset = 0x8
+type = "struct __gconv_step_data"
+size = 0x30
