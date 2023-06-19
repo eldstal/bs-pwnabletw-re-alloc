@@ -1,0 +1,40 @@
+[metadata]
+name = "Elf64_Sym"
+size = 0x18
+last_change = 2023-06-19T19:06:23.134246Z
+
+[members.0x0]
+name = "st_name"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "st_info"
+offset = 0x4
+type = "uchar"
+size = 0x1
+
+[members.0x5]
+name = "st_other"
+offset = 0x5
+type = "uchar"
+size = 0x1
+
+[members.0x6]
+name = "st_shndx"
+offset = 0x6
+type = "ushort"
+size = 0x2
+
+[members.0x8]
+name = "st_value"
+offset = 0x8
+type = "ulong"
+size = 0x8
+
+[members.0x10]
+name = "st_size"
+offset = 0x10
+type = "ulong"
+size = 0x8
