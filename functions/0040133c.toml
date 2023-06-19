@@ -1,0 +1,51 @@
+[metadata]
+addr = 0x40133c
+size = 0x15d
+last_change = 2023-06-19T19:07:58.451981Z
+
+[header]
+name = "du_kan_inte_allocate"
+addr = 0x40133c
+type = "char*"
+
+[stack_vars.-0x28]
+offset = -40
+name = "var_28"
+type = "long"
+size = 0x0
+addr = 0x40133c
+
+[stack_vars.-0x20]
+offset = -32
+name = "var_20_1"
+type = "long"
+size = 0x0
+addr = 0x40133c
+
+[stack_vars.-0x18]
+offset = -24
+name = "var_18_1"
+type = "long"
+size = 0x0
+addr = 0x40133c
+
+[stack_vars.-0x10]
+offset = -16
+name = "var_10_1"
+type = "long"
+size = 0x0
+addr = 0x40133c
+
+[stack_vars.-0x8]
+offset = -8
+name = "__saved_rbp"
+type = "long"
+size = 0x0
+addr = 0x40133c
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x40133c
