@@ -1,6 +1,6 @@
-[0x4040a0]
-last_change = 2023-06-19T19:07:26.798010Z
-addr = 0x4040a0
-name = "<DataSymbol: "stderr" @ 0x4040a0>"
-type = "ulong* const"
-size = 0x8
+[0x4040a8]
+last_change = 2023-06-19T19:07:27.160590Z
+addr = 0x4040a8
+name = "<DataSymbol: "completed.7963" @ 0x4040a8>"
+type = "uchar"
+size = 0x1
