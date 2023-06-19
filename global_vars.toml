@@ -1,6 +1,6 @@
-[0x404148]
-last_change = 2023-06-19T19:07:37.752666Z
-addr = 0x404148
-name = "<LibraryFunctionSymbol: "__builtin_strncpy" @ 0x404148>"
-type = "char*(char* dest, char const* src, ulong n)"
+[0x404150]
+last_change = 2023-06-19T19:07:37.996198Z
+addr = 0x404150
+name = "<LibraryFunctionSymbol: "__builtin_wcscpy" @ 0x404150>"
+type = "wchar32*(wchar32* dest, wchar32 const* src)"
 size = 0x0
