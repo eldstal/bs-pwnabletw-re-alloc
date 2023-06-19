@@ -12,9 +12,9 @@ name = "data_40054f"
 type = "char[0x12]"
 size = 0x12
 
-[0x401020]
-last_change = 2023-06-19T19:06:43.789712Z
-addr = 0x401020
-name = "data_401020"
-type = "void"
+[0x4040e8]
+last_change = 2023-06-19T19:06:44.037690Z
+addr = 0x4040e8
+name = "<ExternalSymbol: "_exit" @ 0x4040e8>"
+type = "void(int status) __noreturn"
 size = 0x0
