@@ -1,6 +1,6 @@
-[0x4016da]
-last_change = 2023-06-19T19:06:56.264589Z
-addr = 0x4016da
-name = "<FunctionSymbol: "main" @ 0x4016da>"
+[0x401790]
+last_change = 2023-06-19T19:06:56.490675Z
+addr = 0x401790
+name = "<FunctionSymbol: "__libc_csu_init" @ 0x401790>"
 type = "void"
 size = 0x0
