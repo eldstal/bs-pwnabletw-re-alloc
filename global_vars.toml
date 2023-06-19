@@ -1,6 +1,6 @@
-[0x4011c2]
-last_change = 2023-06-19T19:06:50.437484Z
-addr = 0x4011c2
-name = "<FunctionSymbol: "handler" @ 0x4011c2>"
+[0x4011e3]
+last_change = 2023-06-19T19:06:53.733721Z
+addr = 0x4011e3
+name = "<FunctionSymbol: "init_proc" @ 0x4011e3>"
 type = "void"
 size = 0x0
