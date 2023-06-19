@@ -1,6 +1,6 @@
-[0x4040e0]
-last_change = 2023-06-19T19:07:28.860582Z
-addr = 0x4040e0
-name = "<ExternalSymbol: "__stack_chk_fail" @ 0x4040e0>"
-type = "void() __noreturn"
+[0x4040e8]
+last_change = 2023-06-19T19:07:29.184543Z
+addr = 0x4040e8
+name = "<ExternalSymbol: "_exit" @ 0x4040e8>"
+type = "void(int status) __noreturn"
 size = 0x0
