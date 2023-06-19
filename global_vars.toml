@@ -5,9 +5,9 @@ name = "data_402105"
 type = "char const[0x1c]"
 size = 0x1c
 
-[0x404000]
-last_change = 2023-06-19T19:07:16.157781Z
-addr = 0x404000
-name = "<DataSymbol: "_GLOBAL_OFFSET_TABLE_" @ 0x404000>"
-type = "void"
-size = 0x0
+[0x404008]
+last_change = 2023-06-19T19:07:16.381691Z
+addr = 0x404008
+name = "data_404008"
+type = "long"
+size = 0x8
