@@ -12,9 +12,9 @@ name = "data_40054f"
 type = "char[0x12]"
 size = 0x12
 
-[0x4040f0]
-last_change = 2023-06-19T19:06:45.188240Z
-addr = 0x4040f0
-name = "<ExternalSymbol: "alarm" @ 0x4040f0>"
-type = "void"
+[0x4040f8]
+last_change = 2023-06-19T19:06:45.414272Z
+addr = 0x4040f8
+name = "<ExternalSymbol: "atoll" @ 0x4040f8>"
+type = "long(char const* nptr)"
 size = 0x0
